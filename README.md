@@ -1,5 +1,3 @@
-# Blitz3D
-
 ## How to Build
 
 ### Prepare
